@@ -110,9 +110,9 @@ function Colors() {
 
         <div className="text-center mt-16">
           <button className="bg-blue-700 hover:bg-blue-800 text-white px-12 py-4 rounded-full text-lg font-medium transition-all duration-300 mb-6 hover:scale-105 shadow-mb shadow-blue-500/50 cursor-pointer">
-            Compre agora à partir de R$ 9.950,00{" "}
+            A partir de R$ 958,25/mês{" "}
           </button>
-          <p>Ou em 12x de R$ 994,92</p>
+          <p>ou R$ 11.499</p>
         </div>
       </div>
     </section>
